@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fcL6jnUgdPI+6LPfv4PARPFzh5/csZ1hicqUi8FYrhaB9dJZD2ulx7fEbo0xSBRrxFOupCnK3PsbLrcIqDjghw==",
+  "success": true,
+  "projectFilePath": "Z:\\prilog\\prilog\\prilog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s0177249\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\s0177249\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\s0177249\\.nuget\\packages\\npgsql\\9.0.3\\npgsql.9.0.3.nupkg.sha512",
+    "C:\\Users\\s0177249\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.1\\system.diagnostics.diagnosticsource.8.0.1.nupkg.sha512",
+    "C:\\Users\\s0177249\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\s0177249\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\s0177249\\.nuget\\packages\\system.text.json\\8.0.5\\system.text.json.8.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
